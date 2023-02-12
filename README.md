@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Blogs
+https://fResult.medium.com
+
+## Experimentals & Practisings
+Repository which I have experimented for Functional Proframming in TypeScript, JavaScript (sometimes Haskell) both from scratch and using libraries.
+https://gitlab.com/fResult/fp-libs-sandbox
+
 ## My Passed Assessments
 ### TripleBytes's (Software) Engineering Assessments
 See: <a target="_blank" rel="noreferer" href="https://triplebyte.com/tb/fresult-sila-ne50oq6/certificate">https://triplebyte.com/tb/fresult-sila-ne50oq6/certificate</a>
