@@ -15,5 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My Passed Assessment
-![My Skooldio's Assessment](https://user-images.githubusercontent.com/19329932/218326146-cd3a0ac3-6d53-431c-a4b9-abd8da11ef9b.png)
+## My Passed Assessments
+### W3Scools's Assessment (TypeScript)
+![My TypeScript's Assessment](https://user-images.githubusercontent.com/19329932/218326428-54cbc9c4-8d27-4bfc-b516-558c0372e0ef.png)
+### Skooldio's Assessments
+- SQL
+- CSS Layout
+- CSS
+- JavaScript
+- Kotlin
+![My Skooldio's Assessments](https://user-images.githubusercontent.com/19329932/218326146-cd3a0ac3-6d53-431c-a4b9-abd8da11ef9b.png)
+
+
