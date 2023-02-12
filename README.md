@@ -22,6 +22,9 @@ https://fResult.medium.com
 - An article which I wrote about Pure Function in my perspective.  
     https://medium.com/p/1439befa84c1
 
+
+
+
 ## Experimentals & Practisings
 - My Gitlab Repositories
     https://gitlab.com/fResult
@@ -30,6 +33,8 @@ https://fResult.medium.com
 - Practising on FrontendMentor platform
     https://www.frontendmentor.io/profile/fResult
 
+## Side Projects
+Nothingw to show
 
 ## My Passed Assessments
 ### TripleBytes's (Software) Engineering Assessments
