@@ -25,6 +25,8 @@ https://fResult.medium.com
     https://gitlab.com/fResult/fp-libs-sandbox
 - An article which I wrote about Pure Function in my perspective.  
     https://medium.com/p/1439befa84c1
+- Practising on FrontendMentor platform
+    https://www.frontendmentor.io/profile/fResult
 
 
 ## My Passed Assessments
