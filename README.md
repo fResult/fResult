@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## My Passed Assessments
-### TripleBytes's Assessments
+### TripleBytes's (Software) Engineering Assessments
 See: <a target="_blank" rel="noreferer" href="https://triplebyte.com/tb/fresult-sila-ne50oq6/certificate">https://triplebyte.com/tb/fresult-sila-ne50oq6/certificate</a>
 | Title | Timeout (minutes) | Level |
 |-------|:-----------------:|:------:|
