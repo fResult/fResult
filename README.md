@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 | Node.js | No limit | 4 / 5 |
 | JavaScript | No limit | 3 / 5 |
 | General Coding Logic | No limit | 3 / 5 |
+
 ![TripleBytes's Assessments](https://user-images.githubusercontent.com/19329932/218327066-92c4721d-f175-4aff-8aad-3f26232f4465.png)
 
 
