@@ -23,6 +23,8 @@ https://fResult.medium.com
     https://medium.com/p/1439befa84c1
 
 ## Experimentals & Practisings
+- My Gitlab Repositories
+    https://gitlab.com/fResult
 - Repository which I have experimented for Functional Proframming in TypeScript, JavaScript (sometimes Haskell) both from scratch and using libraries.  
     https://gitlab.com/fResult/fp-libs-sandbox
 - Practising on FrontendMentor platform
