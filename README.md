@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## My Passed Assessments
+### TripleBytes's Assessments
 | Title | Timeout (minutes) | Level |
 |-------|:-----------------:|:------:|
 | React | No limit | 5 / 5 |
@@ -27,7 +28,6 @@ Here are some ideas to get you started:
 ![TripleBytes's Assessments](https://user-images.githubusercontent.com/19329932/218327066-92c4721d-f175-4aff-8aad-3f26232f4465.png)
 
 
-### TripleBytes's Assessments
 ### W3Scools's Assessment (TypeScript)
 | Title | Timeout (minutes) | Scores |
 |-------|:-----------------:|:------:|
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ![My TypeScript's Assessment](https://user-images.githubusercontent.com/19329932/218326428-54cbc9c4-8d27-4bfc-b516-558c0372e0ef.png)
 
-s
+
 ### Skooldio's Assessments
 | Title | Timeout (minutes) | Scores |
 |-------|:-----------------:|:------:|
