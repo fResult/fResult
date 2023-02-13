@@ -38,7 +38,7 @@ Nothingw to show
 
 ## My Passed Assessments
 ### TripleBytes's (Software) Engineering Assessments
-See: <a target="_blank" rel="noreferer" href="https://triplebyte.com/tb/fresult-sila-ne50oq6/certificate">https://triplebyte.com/tb/fresult-sila-ne50oq6/certificate</a>
+See: <a target="_blank" rel="noreferrer" href="https://triplebyte.com/tb/fresult-sila-ne50oq6/certificate">https://triplebyte.com/tb/fresult-sila-ne50oq6/certificate</a>
 | Title | Timeout (minutes) | Level |
 |-------|:-----------------:|:------:|
 | React | No limit | 5 / 5 |
