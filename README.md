@@ -25,7 +25,7 @@ https://fResult.medium.com
 
 
 
-## Experimentals & Practisings
+## Experimentals, Practisings, and Learning
 - My Gitlab Repositories
     https://gitlab.com/fResult
 - Repository which I have experimented for Functional Proframming in TypeScript, JavaScript (sometimes Haskell) both from scratch and using libraries.  
@@ -37,7 +37,7 @@ https://fResult.medium.com
 Nothing to show
 
 ## My Passed Assessments
-### TripleBytes's (Software) Engineering Assessments
+### TripleByte's (Software) Engineering Assessments
 See: <a target="_blank" rel="noreferrer" href="https://triplebyte.com/tb/fresult-sila-ne50oq6/certificate">https://triplebyte.com/tb/fresult-sila-ne50oq6/certificate</a>
 | Title | Timeout (minutes) | Level |
 |-------|:-----------------:|:------:|
@@ -50,7 +50,7 @@ See: <a target="_blank" rel="noreferrer" href="https://triplebyte.com/tb/fresult
 ![TripleBytes's Assessments](https://user-images.githubusercontent.com/19329932/218327066-92c4721d-f175-4aff-8aad-3f26232f4465.png)
 
 
-### W3Scools's Assessment (TypeScript)
+### W3Scools's Assessments (TypeScript)
 | Title | Timeout (minutes) | Scores |
 |-------|:-----------------:|:------:|
 | TypeScript | No limit | 22 / 25 |
