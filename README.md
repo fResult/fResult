@@ -34,7 +34,7 @@ https://fResult.medium.com
     https://www.frontendmentor.io/profile/fResult
 
 ## Side Projects
-Nothingw to show
+Nothing to show
 
 ## My Passed Assessments
 ### TripleBytes's (Software) Engineering Assessments
