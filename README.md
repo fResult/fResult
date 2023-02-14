@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 https://fResult.medium.com
 - An article which I wrote about Pure Function in my perspective.  
     https://medium.com/p/1439befa84c1
-- My TypeScript Series which I wrote for my friends and students in Code Camp 8 could learn ts on demand.
+- My TypeScript Series which I wrote for students in Code Camp 8th and my friends could learn it by themselves.
     https://gitlab.com/fResult/typescript-slide
 
 
