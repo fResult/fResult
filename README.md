@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 https://fResult.medium.com
 - An article which I wrote about Pure Function in my perspective.  
     https://medium.com/p/1439befa84c1
-
-
+- My TypeScript Series which I wrote for my friends and students in Code Camp 8 could learn ts on demand.
+    https://gitlab.com/fResult/typescript-slide
 
 
 ## Experimentals, Practisings, and Learning
@@ -32,6 +32,9 @@ https://fResult.medium.com
     https://gitlab.com/fResult/fp-libs-sandbox
 - Practising on FrontendMentor platform
     https://www.frontendmentor.io/profile/fResult
+- I Luv Coffee (workshop) which I learnt from [NestJS Fundamental Course](https://learn.nestjs.com/p/fundamentals)
+    https://gitlab.com/fResult/iluvcoffees
+
 
 ## Side Projects
 Nothing to show
