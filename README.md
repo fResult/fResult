@@ -32,7 +32,7 @@ https://fResult.medium.com
     https://gitlab.com/fResult/fp-libs-sandbox
 - Practising on FrontendMentor platform
     https://www.frontendmentor.io/profile/fResult
-- I Luv Coffee (workshop) which I learnt from [NestJS Fundamental Course](https://learn.nestjs.com/p/fundamentals)
+- I Luv Coffee (workshop) which I learnt from [NestJS Fundamental](https://learn.nestjs.com/p/fundamentals) course.
     https://gitlab.com/fResult/iluvcoffees
 
 
