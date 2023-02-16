@@ -1,4 +1,4 @@
-# Hi there <img src="https://user-images.githubusercontent.com/19329932/219409246-4c3c7e76-4964-4189-8806-136c58dfa244.gif" alt="waved" />
+# Hi there <img src="https://raw.githubusercontent.com/fResult/fResult/main/assets/wave.gif" alt="waved" />
 
 My Name is Korn,  
 I'm Web Developer | TypeScript, and Functional Programming&Thinking Enthusiast | Technical Coach wanna-be | DX Developer | Lifelong Learner | Problems Solver | Coding Mentor | ReactJS Lover | MEMEs Consumer
