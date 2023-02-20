@@ -38,7 +38,7 @@ https://fResult.medium.com
 - My CodeSandbox:  
     https://codesandbox.io/u/fResult
 - My CodePen:  
-    https://codepen.io/fResult
+    <a href="https://codepen.io/fResult" target="_blank">https://codepen.io/fResult</a>
 
 
 ## Side Projects
