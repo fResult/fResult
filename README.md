@@ -29,11 +29,11 @@ https://fResult.medium.com
 ## Experimentals, Practisings, and Learning
 - My Gitlab Repositories:  
     https://gitlab.com/fResult
-- Repository which I have experimented for **Functional Proframming** in _TypeScript_, _JavaScript_ (sometimes _Haskell_) both from scratch and using libraries.  
+- Repository which I have experimented for **Functional Proframming** in _TypeScript_, _JavaScript_ (sometimes _Haskell_) both from scratch and using libraries.:  
     https://gitlab.com/fResult/fp-libs-sandbox
-- Practising on FrontendMentor platform  
+- Practising on FrontendMentor platform:  
     https://www.frontendmentor.io/profile/fResult
-- I Luv Coffee (workshop) which I learnt from [NestJS Fundamental](https://learn.nestjs.com/p/fundamentals) course.
+- I Luv Coffee (workshop) which I learnt from [NestJS Fundamental](https://learn.nestjs.com/p/fundamentals) course.:  
     https://gitlab.com/fResult/iluvcoffees
 - My CodeSandbox:  
     https://codesandbox.io/u/fResult
