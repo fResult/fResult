@@ -26,7 +26,7 @@ https://fResult.medium.com
     https://gitlab.com/fResult/typescript-slide
 
 
-## Experimentals, Practisings, and Learning
+## Experimentals, Practisings, and Learnings
 - My Gitlab Repositories:  
     https://gitlab.com/fResult
 - Repository which I have experimented for **Functional Proframming** in _TypeScript_, _JavaScript_ (sometimes _Haskell_) both from scratch and using libraries.:  
