@@ -41,8 +41,8 @@ https://fResult.medium.com
     <a href="https://codepen.io/fResult" target="_blank">https://codepen.io/fResult</a>
 
 
-## Side Projects
-Nothing to show
+## Side Projects & Open Source Contributions
+<code>Nothing to show</code>
 
 ## My Passed Assessments
 ### TripleByte's (Software) Engineering Assessments
