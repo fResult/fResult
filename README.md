@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Blogs
+## Blog posts & Articles
 https://fResult.medium.com
 - An article which I wrote about Pure Function in my perspective.  
     https://medium.com/p/1439befa84c1
