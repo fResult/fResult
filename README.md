@@ -20,17 +20,17 @@ Here are some ideas to get you started:
 
 ## Blog posts & Articles
 https://fResult.medium.com
-- An article which I wrote about Pure Function in my perspective.  
+- An article which I wrote about **_Pure Function_** in my perspective.  
     https://medium.com/p/1439befa84c1
-- My TypeScript Series which I wrote for students in Code Camp 8th and my friends could learn it by themselves.
+- My TypeScript Series which I created for students in Code Camp 8th and my friends could learn it by themselves.
     https://gitlab.com/fResult/typescript-slide
 
 
 ## Experimentals, Practisings, and Learnings
-- My Gitlab Repositories:  
-    https://gitlab.com/fResult
-- Repository which I have experimented for **Functional Proframming** paradigm in _TypeScript_, _JavaScript_ (sometimes _Haskell_) both from scratch and using libraries:  
-    https://gitlab.com/fResult/fp-libs-sandbox
+- My Gitlab Repositories:
+    - https://gitlab.com/fResult
+- Repository which I have experimented for **Functional Proframming** paradigm in _TypeScript_, _JavaScript_ (sometimes _Haskell_) both from scratch and using libraries:
+    - https://gitlab.com/fResult/fp-libs-sandbox
 - Practising on FrontendMentor platform:
     - [Four card feature section](https://www.frontendmentor.io/solutions/it-work-with-flexbox-and-order-some-item-to-switch-order-when-responsi-ek4UNGRSe)
     - [REST Countrie API with color theme switcher](https://www.frontendmentor.io/solutions/react-typescript-with-hook-tailwindcss-reacthook-form-RaxuArVcK)
