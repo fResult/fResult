@@ -33,10 +33,10 @@ https://fResult.medium.com
     - https://gitlab.com/fResult/fp-libs-sandbox
 - Practising on FrontendMentor platform:
     - [Four card feature section](https://www.frontendmentor.io/solutions/it-work-with-flexbox-and-order-some-item-to-switch-order-when-responsi-ek4UNGRSe)
-    - [REST Countrie API with color theme switcher](https://www.frontendmentor.io/solutions/react-typescript-with-hook-tailwindcss-reacthook-form-RaxuArVcK)
+    - [REST Countrie API with color theme switcher](https://www.frontendmentor.io/solutions/react-typescript-with-hook-tailwindcss-reacthook-form-RaxuArVcK) (without Accessibility (A11Y) Report)
 - I Luv Coffee (workshop) which I learnt from [NestJS Fundamental](https://learn.nestjs.com/p/fundamentals) course:  
     - https://gitlab.com/fResult/iluvcoffees
-- My CodeSandbox:  
+- My CodeSandbox:
     - https://codesandbox.io/u/fResult
 - My CodePen:  
     - <a href="https://codepen.io/fResult" target="_blank">https://codepen.io/fResult</a>
