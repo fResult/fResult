@@ -34,14 +34,15 @@ https://fResult.medium.com
 - Practising on FrontendMentor platform:
     - [Four card feature section](https://www.frontendmentor.io/solutions/it-work-with-flexbox-and-order-some-item-to-switch-order-when-responsi-ek4UNGRSe)
     - [REST Countrie API with color theme switcher](https://www.frontendmentor.io/solutions/react-typescript-with-hook-tailwindcss-reacthook-form-RaxuArVcK) (without Accessibility (A11Y) Report)
-- I Luv Coffee (workshop) which I learnt from [NestJS Fundamental](https://learn.nestjs.com/p/fundamentals) course:  
+- Workshops
+    - I Luv Coffee project which I learnt from [NestJS Fundamental](https://learn.nestjs.com/p/fundamentals) course:  
     - https://gitlab.com/fResult/iluvcoffees
-- My Code Wars
-    - https://www.codewars.com/users/fResult
-- My CodeSandbox:
-    - https://codesandbox.io/u/fResult
-- My CodePen:  
-    - <a href="https://codepen.io/fResult" target="_blank">https://codepen.io/fResult</a>
+- Code Kata(s)
+    - My Code Wars: https://www.codewars.com/users/fResult
+
+- HTML/CSS/JS sandboxes
+    - My CodeSandbox: https://codesandbox.io/u/fResult
+    - My CodePen: <a href="https://codepen.io/fResult" target="_blank">https://codepen.io/fResult</a>
 
 
 ## Side Projects & Open Source Contributions
