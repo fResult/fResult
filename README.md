@@ -35,8 +35,10 @@ https://fResult.medium.com
     - [Four card feature section](https://www.frontendmentor.io/solutions/it-work-with-flexbox-and-order-some-item-to-switch-order-when-responsi-ek4UNGRSe)
     - [REST Countrie API with color theme switcher](https://www.frontendmentor.io/solutions/react-typescript-with-hook-tailwindcss-reacthook-form-RaxuArVcK) (without Accessibility (A11Y) Report)
 - Workshops
-    - I Luv Coffee project which I learnt from [NestJS Fundamental](https://learn.nestjs.com/p/fundamentals) course:  
-    - https://gitlab.com/fResult/iluvcoffees
+    - ***I Luv Coffee*** project which I learnt from [NestJS Fundamental](https://learn.nestjs.com/p/fundamentals) course:  
+        - https://gitlab.com/fResult/iluvcoffees
+    - ***Cameo Comparison*** game which I learnt from [Svelte Course on FrontendMasters](https://frontendmasters.com/courses/svelte) (I used TypeScript instead JavaScript which is teached in course):
+        - https://gitlab.com/fResult/cameo-comparison-game-workshop
 - Code Kata(s)
     - My Code Wars: https://www.codewars.com/users/fResult
 
