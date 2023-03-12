@@ -36,6 +36,8 @@ https://fResult.medium.com
     - [REST Countrie API with color theme switcher](https://www.frontendmentor.io/solutions/react-typescript-with-hook-tailwindcss-reacthook-form-RaxuArVcK) (without Accessibility (A11Y) Report)
 - I Luv Coffee (workshop) which I learnt from [NestJS Fundamental](https://learn.nestjs.com/p/fundamentals) course:  
     - https://gitlab.com/fResult/iluvcoffees
+- My Code Wars
+    - https://www.codewars.com/users/fResult
 - My CodeSandbox:
     - https://codesandbox.io/u/fResult
 - My CodePen:  
