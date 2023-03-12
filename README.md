@@ -29,16 +29,17 @@ https://fResult.medium.com
 ## Experimentals, Practisings, and Learnings
 - My Gitlab Repositories:  
     https://gitlab.com/fResult
-- Repository which I have experimented for **Functional Proframming** in _TypeScript_, _JavaScript_ (sometimes _Haskell_) both from scratch and using libraries.:  
+- Repository which I have experimented for **Functional Proframming** paradigm in _TypeScript_, _JavaScript_ (sometimes _Haskell_) both from scratch and using libraries:  
     https://gitlab.com/fResult/fp-libs-sandbox
-- Practising on FrontendMentor platform:  
-    https://www.frontendmentor.io/profile/fResult
-- I Luv Coffee (workshop) which I learnt from [NestJS Fundamental](https://learn.nestjs.com/p/fundamentals) course.:  
-    https://gitlab.com/fResult/iluvcoffees
+- Practising on FrontendMentor platform:
+    - [Four card feature section](https://www.frontendmentor.io/solutions/it-work-with-flexbox-and-order-some-item-to-switch-order-when-responsi-ek4UNGRSe)
+    - [REST Countrie API with color theme switcher](https://www.frontendmentor.io/solutions/react-typescript-with-hook-tailwindcss-reacthook-form-RaxuArVcK)
+- I Luv Coffee (workshop) which I learnt from [NestJS Fundamental](https://learn.nestjs.com/p/fundamentals) course:  
+    - https://gitlab.com/fResult/iluvcoffees
 - My CodeSandbox:  
-    https://codesandbox.io/u/fResult
+    - https://codesandbox.io/u/fResult
 - My CodePen:  
-    <a href="https://codepen.io/fResult" target="_blank">https://codepen.io/fResult</a>
+    - <a href="https://codepen.io/fResult" target="_blank">https://codepen.io/fResult</a>
 
 
 ## Side Projects & Open Source Contributions
