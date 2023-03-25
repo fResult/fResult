@@ -76,12 +76,11 @@ See: <a target="_blank" rel="noreferrer" href="https://triplebyte.com/tb/fresult
 ### Skooldio's Assessments
 | Title | Timeout (minutes) | Scores |
 |-------|:-----------------:|:------:|
+| UX Design | 30 | 20 / 30 |
 | SQL | 20 | 7 / 20 |
 | CSS Layout | 15 | 18 / 20 |
 | CSS | 20 | 18 / 20 |
 | JavaScript | 20 | 15 / 20 |
 | Kotlin | 30 | 17 / 20 |
 
-![My Skooldio's Assessments](https://user-images.githubusercontent.com/19329932/218326146-cd3a0ac3-6d53-431c-a4b9-abd8da11ef9b.png)
-
-
+![My Skooldio's Assessments](https://user-images.githubusercontent.com/19329932/227737510-a7ea7a5d-d8d9-4e97-a668-6dcc93d85bea.png)
