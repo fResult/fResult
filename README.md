@@ -38,7 +38,7 @@ https://fResult.medium.com
     - ***I Luv Coffee*** project which I learnt from [NestJS Fundamental](https://learn.nestjs.com/p/fundamentals) course:  
         - https://gitlab.com/fResult/iluvcoffees
     - ***Cameo Comparison*** game which I learnt from [Svelte Course on FrontendMasters](https://frontendmasters.com/courses/svelte)  
-        (I used TypeScript instead JavaScript and TailwindCSS instead Pure CSS which are teached in the course):
+        (I used _TypeScript_ instead _JavaScript_ and _TailwindCSS_ instead _Pure CSS_ which are teached in the course):
         - https://gitlab.com/fResult/cameo-comparison-game-workshop
 - Code Kata(s)
     - My Code Wars: https://www.codewars.com/users/fResult
