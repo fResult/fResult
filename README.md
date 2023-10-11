@@ -85,4 +85,6 @@ See: <a target="_blank" rel="noreferrer" href="https://triplebyte.com/tb/fresult
 
 ![My Skooldio's Assessments](https://user-images.githubusercontent.com/19329932/227737510-a7ea7a5d-d8d9-4e97-a668-6dcc93d85bea.png)
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=fResult&label=Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Korn704&label=Profile%20Views&color=1&icon=5&pretty=false" />
+</a>
