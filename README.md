@@ -49,7 +49,11 @@ https://fResult.medium.com
 
 
 ## Side Projects & Open Source Contributions
-<code>Nothing to show</code>
+- Parliament Watch
+  - Issue - [#5 VoteCard Component](https://github.com/wevisdemo/parliament-watch/issues/5)
+  - Pull Requests
+    - [#8 Add VoteCard Component](https://github.com/wevisdemo/parliament-watch/pull/8)
+    - [#23 Change wording for the candidate voting](https://github.com/wevisdemo/parliament-watch/pull/23)
 
 ## My Passed Assessments
 ### TripleByte's (Software) Engineering Assessments
