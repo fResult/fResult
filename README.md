@@ -49,7 +49,7 @@ https://fResult.medium.com
 
 
 ## Side Projects & Open Source Contributions
-- Parliament Watch
+- Parliament Watch BY WevisDemo
   - Issue - [#5 VoteCard Component](https://github.com/wevisdemo/parliament-watch/issues/5)
   - Pull Requests
     - [#8 Add VoteCard Component](https://github.com/wevisdemo/parliament-watch/pull/8)
