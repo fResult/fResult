@@ -51,6 +51,9 @@ https://fResult.medium.com
 
 
 ## Side Projects & Open Source Contributions
+### Side Projects
+-- Nothing to show --
+### Open Source Contributions
 - Parliament Watch BY WevisDemo
   - Issue - [#5 VoteCard Component](https://github.com/wevisdemo/parliament-watch/issues/5)
   - Pull Requests
@@ -107,7 +110,9 @@ See: <a target="_blank" rel="noreferrer" href="https://triplebyte.com/tb/fresult
     src="https://user-images.githubusercontent.com/19329932/227737510-a7ea7a5d-d8d9-4e97-a668-6dcc93d85bea.png"
 />
 </details>
+
 ---
+
 ### Stats
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Korn704&label=Profile%20Views&color=1&icon=5&pretty=false" alt="fResult visiting's count" />
