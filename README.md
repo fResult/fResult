@@ -83,9 +83,9 @@ See: <a target="_blank" rel="noreferrer" href="https://triplebyte.com/tb/fresult
 </details>
 
 ### W3Scools's Assessments (TypeScript)
-| Title | Timeout (minutes) | Scores |
-|-------|:-----------------:|:------:|
-| TypeScript | No limit | 22 / 25 |
+| Title | Timeout (minutes) | Scores | Date |
+|-------|:-----------------:|:------:|:----:|
+| TypeScript | No limit | 22 / 25 | Oct 23, 2022 |
 <details>
 <summary>See image</summary>
 <img
@@ -95,14 +95,14 @@ See: <a target="_blank" rel="noreferrer" href="https://triplebyte.com/tb/fresult
 </details>
 
 ### Skooldio's Assessments
-| Title | Timeout (minutes) | Scores |
-|-------|:-----------------:|:------:|
-| UX Design | 30 | 20 / 30 |
-| SQL | 20 | 7 / 20 |
-| CSS Layout | 15 | 18 / 20 |
-| CSS | 20 | 18 / 20 |
-| JavaScript | 20 | 15 / 20 |
-| Kotlin | 30 | 17 / 20 |
+| Title | Timeout (minutes) | Scores | Date |
+|-------|:-----------------:|:------:|:----:|
+| UX Design | 30 | 20 / 30 | Mar 26, 2023 |
+| SQL | 20 | 7 / 20 | Jan 25, 2023 |
+| CSS Layout | 15 | 18 / 20 | Nov 14, 2022 |
+| CSS | 20 | 18 / 20 | Nov 14, 2022 |
+| JavaScript | 20 | 15 / 20 | Dec 7, 2021 |
+| Kotlin | 30 | 17 / 20 | Oct 8, 2021 |
 <details>
 <summary>See image</summary>
 <img
