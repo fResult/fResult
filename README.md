@@ -113,7 +113,7 @@ See: <a target="_blank" rel="noreferrer" href="https://triplebyte.com/tb/fresult
 
 ---
 
-### Stats
+## Stats
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Korn704&label=Profile%20Views&color=1&icon=5&pretty=false" alt="fResult visiting's count" />
 </a>
