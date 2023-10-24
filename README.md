@@ -42,7 +42,7 @@ https://fResult.medium.com
     - ***I Luv Coffee*** project which I learnt from [NestJS Fundamental](https://learn.nestjs.com/p/fundamentals) course:  
         - https://gitlab.com/fResult/iluvcoffees
     - ***Cameo Comparison*** game which I learned from [Svelte Course on FrontendMasters](https://frontendmasters.com/courses/svelte)  
-        (I used _TypeScript_ instead _JavaScript_ and _TailwindCSS_ instead _Pure CSS_ which are teached in the course):
+        (I used _TypeScript_ instead _JavaScript_ and _TailwindCSS_ instead _Pure CSS_ which are taught in the course):
         - https://gitlab.com/fResult/cameo-comparison-game-workshop
 - Code Kata(s)
     - My Code Wars: https://www.codewars.com/users/fResult
@@ -61,9 +61,12 @@ https://fResult.medium.com
   - Pull Requests
     - [#8 Add VoteCard Component](https://github.com/wevisdemo/parliament-watch/pull/8)
     - [#23 Change wording for the candidate voting](https://github.com/wevisdemo/parliament-watch/pull/23)
+- Resumette BY narze
+  - Issue - [#4 Make it possible to use data from json file instead of .ts file](https://github.com/narze/resume/issues/4)
+  - Pull Request - [#6 Convert JS variables to JSON file](https://github.com/narze/resume/pull/6)
 - Bangkok Open Source Festival '23 website BY Creatorgarten
   - [#51 Create CardLink as a reusable component and improve accessibility](https://github.com/creatorsgarten/open.source.in.th/pull/51)
-- Contributors' Hall of Frame of Bangkok Open Source Festival '23 BY Creatorgarten
+- Contributors' Hall of Fame of Bangkok Open Source Festival '23 BY Creatorgarten
   - [contributors/fResult.md](https://github.com/creatorsgarten/bosf23/blob/main/contributors/fResult.md)
 
 ## My Passed Assessments
