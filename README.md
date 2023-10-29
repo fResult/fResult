@@ -1,8 +1,3 @@
-# Hi there <img src="https://raw.githubusercontent.com/fResult/fResult/main/assets/wave.gif" height="32" width="32" alt="waved" />
-
-My Name is Korn,  
-I'm Web Developer | TypeScript, and Functional Programming&Thinking Enthusiast | Technical Coach wanna-be | DX Developer | Lifelong Learner | Problems Solver | Coding Mentor | ReactJS Lover | MEMEs Consumer
-
 <!--
 **fResult/fResult** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +14,17 @@ Here are some ideas to get you started:
 -->
 [![An image of @fresult's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fresult)](https://holopin.io/@fresult)
 
+- [About me](#about-me)
+- [Blog posts & Articles](#blog-posts--articles)
+- [Experimentals, Practisings, and Learnings](#experimentals-practisings-and-learnings)
+- [Side Projects & Open Source Contributions](#side-projects--open-source-contributions)
+- [My Passed Skill Assessments](#my-passed-skill-assessments)
+- [Stats](#stats)
+
+# About Me
+Hi there <img src="https://raw.githubusercontent.com/fResult/fResult/main/assets/wave.gif" height="32" width="32" alt="waved" />  
+My Name is Korn,  
+I'm Web Developer | TypeScript, and Functional Programming&Thinking Enthusiast | Technical Coach wanna-be | DX Developer | Lifelong Learner | Problems Solver | Coding Mentor | ReactJS Lover | MEMEs Consumer
 
 ## Blog posts & Articles
 https://fResult.medium.com
@@ -56,20 +62,23 @@ https://fResult.medium.com
 ### Side Projects
 -- Nothing to show --
 ### Open Source Contributions
-- Parliament Watch BY WevisDemo
+- Parliament Watch BY [WevisDemo](https://github.com/wevisdemo)
   - Issue - [#5 VoteCard Component](https://github.com/wevisdemo/parliament-watch/issues/5)
   - Pull Requests
     - [#8 Add VoteCard Component](https://github.com/wevisdemo/parliament-watch/pull/8)
     - [#23 Change wording for the candidate voting](https://github.com/wevisdemo/parliament-watch/pull/23)
-- Resumette BY narze
+- Resumette BY [narze](https://github.com/narze)
   - Issue - [#4 Make it possible to use data from json file instead of .ts file](https://github.com/narze/resume/issues/4)
   - Pull Request - [#6 Convert JS variables to JSON file](https://github.com/narze/resume/pull/6)
-- Bangkok Open Source Festival '23 website BY Creatorgarten
+- Bangkok Open Source Festival '23 website BY [Creatorgarten](https://github.com/creatorsgarten)
   - [#51 Create CardLink as a reusable component and improve accessibility](https://github.com/creatorsgarten/open.source.in.th/pull/51)
-- Contributors' Hall of Fame of Bangkok Open Source Festival '23 BY Creatorgarten
+- Joy Treasury BY [siriwatknp](https://github.com/siriwatknp)
+  - Issue - [#37 \[Request\] card-grid-course](https://github.com/siriwatknp/joy-treasury/issues/37)
+  - Pull Request - [#66 components: card-grid-course](https://github.com/siriwatknp/joy-treasury/pull/66)
+- Contributors' Hall of Fame of Bangkok Open Source Festival '23 BY [Creatorgarten](https://github.com/creatorsgarten)
   - [contributors/fResult.md](https://github.com/creatorsgarten/bosf23/blob/main/contributors/fResult.md)
 
-## My Passed Assessments
+## My Passed Skill Assessments
 ### TripleByte's (Software) Engineering Assessments
 See: <a target="_blank" rel="noreferrer" href="https://triplebyte.com/tb/fresult-sila-ne50oq6/certificate">https://triplebyte.com/tb/fresult-sila-ne50oq6/certificate</a>
 | Title | Timeout (minutes) | Level |
