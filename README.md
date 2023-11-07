@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 Hi there <img src="https://raw.githubusercontent.com/fResult/fResult/main/assets/wave.gif" height="32" width="32" alt="waved" />  
 My Name is Korn,  
 I'm Web Developer | TypeScript, and Functional Programming&Thinking Enthusiast | Technical Coach wanna-be | DX Developer | Lifelong Learner | Problems Solver | Coding Mentor | ReactJS Lover | MEMEs Consumer
+![Hacktoberfest 2023 - My Profile](https://github.com/fResult/fResult/assets/19329932/48cb778d-1d6a-40f8-ab11-2b52d683d229)
 
 ## Blog Posts & Articles
 https://fResult.medium.com
