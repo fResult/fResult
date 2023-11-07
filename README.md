@@ -26,8 +26,10 @@ Hi there <img src="https://raw.githubusercontent.com/fResult/fResult/main/assets
 My Name is Korn,  
 I'm Web Developer | TypeScript, and Functional Programming&Thinking Enthusiast | Technical Coach wanna-be | DX Developer | Lifelong Learner | Problems Solver | Coding Mentor | ReactJS Lover | MEMEs Consumer
 
-## Blog posts & Articles
+## Blog Posts & Articles
 https://fResult.medium.com
+- A Series of Reactive Programming with **_Reactor_** & **_Spring Boot Webflux_** (The Road to Backend Developer Edition)  
+    https://medium.com/p/555589fce607
 - The matter of **_Pure Function_** in my perspective.  
     https://medium.com/p/1439befa84c1
 - Point-free and Unary Function in TypeScript.  
