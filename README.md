@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="http://www.reactivemanifesto.org/"> <img style="border: 0; position: fixed; right: 0; top:0; z-index: 9000" src="//d379ifj7s9wntv.cloudfront.net/reactivemanifesto/images/ribbons/we-are-reactive-black-right.png"> </a>
+.
 [![An image of @fresult's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fresult)](https://holopin.io/@fresult)
 
 - [About me](#about-me)
