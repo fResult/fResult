@@ -33,9 +33,11 @@ I'm Web Developer | TypeScript, and Functional Programming&Thinking Enthusiast |
 https://fResult.medium.com
 - A Series of Reactive Programming with **_Reactor_** & **_Spring Boot Webflux_** (The Road to Backend Developer Edition)  
     https://medium.com/p/555589fce607
+- Article: How to Deal with the **_Impure Functions_** in Your Application  
+    https://medium.com/p/459fbca7101a
 - The matter of **_Pure Function_** in my perspective.  
     https://medium.com/p/1439befa84c1
-- Point-free and Unary Function in TypeScript.  
+- **_Point-free_** and **_Unary Function_** in TypeScript.  
     https://medium.com/p/33c9825a7262
 - My TypeScript Series which I created for students in Code Camp 8th and my friends could learn it by themselves.
     https://gitlab.com/fResult/typescript-slide
@@ -44,11 +46,15 @@ https://fResult.medium.com
 ## Experimentals, Practisings, and Learnings
 - My Gitlab Repositories:
     - https://gitlab.com/fResult
+- Task Management API - *created by **Spring Boot Webflux** + **Functional Endpoint** + **Kotlin***
+    - https://gitlab.com/fResult/task-mgmt
 - Repository which I have experimented for **Functional Proframming** paradigm in _TypeScript_, _JavaScript_ (sometimes _Haskell_) both from scratch and using libraries:
     - https://gitlab.com/fResult/fp-libs-sandbox
 - Practising on the FrontendMentor platform:
     - [Four card feature section](https://www.frontendmentor.io/solutions/it-work-with-flexbox-and-order-some-item-to-switch-order-when-responsi-ek4UNGRSe)
     - [REST Countrie API with color theme switcher](https://www.frontendmentor.io/solutions/react-typescript-with-hook-tailwindcss-reacthook-form-RaxuArVcK) (without Accessibility (A11Y) Report)
+<details>
+<summary>See more</summary>
 - Workshops
     - ***I Luv Coffee*** project which I learnt from [NestJS Fundamental](https://learn.nestjs.com/p/fundamentals) course:  
         - https://gitlab.com/fResult/iluvcoffees
@@ -61,7 +67,7 @@ https://fResult.medium.com
 - HTML/CSS/JS sandboxes
     - My CodeSandbox: https://codesandbox.io/u/fResult
     - My CodePen: <a href="https://codepen.io/fResult" target="_blank">https://codepen.io/fResult</a>
-
+</details>
 
 ## Side Projects & Open Source Contributions
 ### Side Projects
