@@ -83,11 +83,14 @@ https://fResult.medium.com
   - Pull Request - [#6 Convert JS variables to JSON file](https://github.com/narze/resume/pull/6)
 - Bangkok Open Source Festival '23 website BY [Creatorgarten](https://github.com/creatorsgarten)
   - [#51 Create CardLink as a reusable component and improve accessibility](https://github.com/creatorsgarten/open.source.in.th/pull/51)
+<details>
+<summary>See more</summary>
 - Joy Treasury BY [siriwatknp](https://github.com/siriwatknp)
   - Issue - [#37 \[Request\] card-grid-course](https://github.com/siriwatknp/joy-treasury/issues/37)
   - Pull Request - [#66 components: card-grid-course](https://github.com/siriwatknp/joy-treasury/pull/66)
 - Contributors' Hall of Fame of Bangkok Open Source Festival '23 BY [Creatorgarten](https://github.com/creatorsgarten)
   - [contributors/fResult.md](https://github.com/creatorsgarten/bosf23/blob/main/contributors/fResult.md)
+</details>
 
 ## My Passed Skill Assessments
 ### TripleByte's (Software) Engineering Assessments
