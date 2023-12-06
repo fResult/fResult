@@ -55,18 +55,37 @@ https://fResult.medium.com
     - [REST Countrie API with color theme switcher](https://www.frontendmentor.io/solutions/react-typescript-with-hook-tailwindcss-reacthook-form-RaxuArVcK) (without Accessibility (A11Y) Report)
 <details>
 <summary>See more</summary>
-- Workshops
-    - ***I Luv Coffee*** project which I learnt from [NestJS Fundamental](https://learn.nestjs.com/p/fundamentals) course:  
-        - https://gitlab.com/fResult/iluvcoffees
-    - ***Cameo Comparison*** game which I learned from [Svelte Course on FrontendMasters](https://frontendmasters.com/courses/svelte)  
+<ul>
+  <li>Workshops
+    <ul>
+      <li>
+        <strong><i>I Luv Coffee</i>></strong> project which I learnt from <a href="https://learn.nestjs.com/p/fundamentals" target="_blank">NestJS Fundamental</a> course:
+        <ul>
+          <li>
+            https://gitlab.com/fResult/iluvcoffees
+          </li>
+        </ul>
+      </li>
+      <li>
+        <strong><i>Cameo Comparison</i></strong> game which I learned from <a href="https://frontendmasters.com/courses/svelte" target="_blank">Svelte Course on FrontendMasters</a><br />
         (I used _TypeScript_ instead _JavaScript_ and _TailwindCSS_ instead _Pure CSS_ which are taught in the course):
-        - https://gitlab.com/fResult/cameo-comparison-game-workshop
-- Code Kata(s)
-    - My Code Wars: https://www.codewars.com/users/fResult
+        <ul><li>https://gitlab.com/fResult/cameo-comparison-game-workshop</li></ul>
+      </li>
+    </ul>
+  </li>
+  <li>Code Kata(s)
+    <ul>
+        <li>
+            My Code Wars: https://www.codewars.com/users/fResult
+        </li>
+    </ul>
+  </li>
 
-- HTML/CSS/JS sandboxes
+  <li>HTML/CSS/JS sandboxes
     - My CodeSandbox: https://codesandbox.io/u/fResult
     - My CodePen: <a href="https://codepen.io/fResult" target="_blank">https://codepen.io/fResult</a>
+  </li>
+</ul>
 </details>
 
 ## Side Projects & Open Source Contributions
@@ -88,11 +107,23 @@ https://fResult.medium.com
   - [#51 Create CardLink as a reusable component and improve accessibility](https://github.com/creatorsgarten/open.source.in.th/pull/51)
 <details>
 <summary>See more</summary>
-- Joy Treasury BY [siriwatknp](https://github.com/siriwatknp)
-  - Issue - [#37 \[Request\] card-grid-course](https://github.com/siriwatknp/joy-treasury/issues/37)
-  - Pull Request - [#66 components: card-grid-course](https://github.com/siriwatknp/joy-treasury/pull/66)
-- Contributors' Hall of Fame of Bangkok Open Source Festival '23 BY [Creatorgarten](https://github.com/creatorsgarten)
-  - [contributors/fResult.md](https://github.com/creatorsgarten/bosf23/blob/main/contributors/fResult.md)
+<ul>
+  <li>
+    Joy Treasury BY [siriwatknp](https://github.com/siriwatknp)
+    <ul>
+      <li>Issue - [#37 \[Request\] card-grid-course](https://github.com/siriwatknp/joy-treasury/issues/37)</li>
+      <li>Pull Request - [#66 components: card-grid-course](https://github.com/siriwatknp/joy-treasury/pull/66)</li>
+    </ul>
+  </li>
+  <li>
+    Contributors' Hall of Fame of Bangkok Open Source Festival '23 BY [Creatorgarten](https://github.com/creatorsgarten)
+    <ul>
+      <li>
+        <a href="https://github.com/creatorsgarten/bosf23/blob/main/contributors/fResult.md" target="_blank">contributors/fResult.md</a>
+      </li>
+    </ul>
+  </li>
+</ul>
 </details>
 
 ## My Passed Skill Assessments
