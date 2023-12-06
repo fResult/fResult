@@ -109,7 +109,7 @@ https://fResult.medium.com
 <summary>See more</summary>
 <ul>
   <li>
-    Joy Treasury BY [siriwatknp](https://github.com/siriwatknp)
+    Joy Treasury BY <a href="https://github.com/siriwatknp" target="_blank">siriwatknp</a>
     <ul>
       <li>Issue - <a href="https://github.com/siriwatknp/joy-treasury/issues/37" target="_blank">#37 [Request] card-grid-course</a></li>
       <li>Pull Request - <a href="https://github.com/siriwatknp/joy-treasury/pull/66" target="_blank">#66 components: card-grid-course</a></li>
