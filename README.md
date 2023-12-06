@@ -73,7 +73,10 @@ https://fResult.medium.com
 ### Side Projects
 -- Nothing to show --
 ### Open Source Contributions
-- Parliament Watch BY [WevisDemo](https://github.com/wevisdemo)
+- Radash BY [Ray Epps](https://github.com/rayepps) - Functional utility library - modern, simple, typed, powerful
+  - Issue - [#339 - `chain` function can't infer data type](https://github.com/rayepps/radash/issues/339)
+  - Pull Request - [#370 fix: Improve type inference for chain function](https://github.com/rayepps/radash/pull/370)
+- Parliament Watch BY [WevisDemo](https://github.com/wevisdemo) - Citizens are watching
   - Issue - [#5 VoteCard Component](https://github.com/wevisdemo/parliament-watch/issues/5)
   - Pull Requests
     - [#8 Add VoteCard Component](https://github.com/wevisdemo/parliament-watch/pull/8)
