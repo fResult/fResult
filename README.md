@@ -111,8 +111,8 @@ https://fResult.medium.com
   <li>
     Joy Treasury BY [siriwatknp](https://github.com/siriwatknp)
     <ul>
-      <li>Issue - [#37 \[Request\] card-grid-course](https://github.com/siriwatknp/joy-treasury/issues/37)</li>
-      <li>Pull Request - [#66 components: card-grid-course](https://github.com/siriwatknp/joy-treasury/pull/66)</li>
+      <li>Issue - <a href="https://github.com/siriwatknp/joy-treasury/issues/37" target="_blank">#37 [Request] card-grid-course</a></li>
+      <li>Pull Request - <a href="https://github.com/siriwatknp/joy-treasury/pull/66" target="_blank">#66 components: card-grid-course</a></li>
     </ul>
   </li>
   <li>
