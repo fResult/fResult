@@ -59,7 +59,7 @@ https://fResult.medium.com
   <li>Workshops
     <ul>
       <li>
-        <strong><i>I Luv Coffee</i>></strong> project which I learnt from <a href="https://learn.nestjs.com/p/fundamentals" target="_blank">NestJS Fundamental</a> course:
+        <strong><i>I Luv Coffee</i></strong> project which I learnt from <a href="https://learn.nestjs.com/p/fundamentals" target="_blank">NestJS Fundamental</a> course:
         <ul>
           <li>
             https://gitlab.com/fResult/iluvcoffees
@@ -68,7 +68,7 @@ https://fResult.medium.com
       </li>
       <li>
         <strong><i>Cameo Comparison</i></strong> game which I learned from <a href="https://frontendmasters.com/courses/svelte" target="_blank">Svelte Course on FrontendMasters</a><br />
-        (I used _TypeScript_ instead _JavaScript_ and _TailwindCSS_ instead _Pure CSS_ which are taught in the course):
+        (I used <i>TypeScript</i> instead <i>JavaScript</i> and <i>TailwindCSS</i> instead <i>Pure CSS</i> which are taught in the course):
         <ul><li>https://gitlab.com/fResult/cameo-comparison-game-workshop</li></ul>
       </li>
     </ul>
