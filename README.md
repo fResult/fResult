@@ -181,6 +181,6 @@ See: <a target="_blank" rel="noreferrer" href="https://triplebyte.com/tb/fresult
 </a>
 <details>
 <summary>See More</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=fresult&show_icons=true&theme=great-gatsby" alt="My stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=great-gatsby" alt="My top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fResult&show_icons=true&theme=great-gatsby" alt="My stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fResult&theme=great-gatsby" alt="My top languages" />
 </details>
