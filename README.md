@@ -179,8 +179,6 @@ See: <a target="_blank" rel="noreferrer" href="https://triplebyte.com/tb/fresult
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Korn704&label=Profile%20Views&color=1&icon=5&pretty=false" alt="My visiting's count" />
 </a>
-<details>
-<summary>See More</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=fResult&show_icons=true&theme=great-gatsby" alt="My stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fResult&theme=great-gatsby" alt="My top languages" />
-</details>
+
+<img src="https://github-readme-stats.vercel.app/api?username=fResult&show_icons=true&theme=great-gatsby" alt="My stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fResult&theme=great-gatsby" alt="My top languages" />
