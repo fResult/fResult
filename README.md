@@ -24,9 +24,13 @@ Here are some ideas to get you started:
 - [Stats](#stats)
 
 # About Me
+
+![Rickrolled](https://raw.githubusercontent.com/fResult/fResult/main/assets/rick-roll.gif)
+
 Hi there <img src="https://raw.githubusercontent.com/fResult/fResult/main/assets/wave.gif" height="32" width="32" alt="waved" />  
 My Name is Korn,  
 I'm a Functional Programming Enthusiast | Entropy Advocate | Technical Coach wanna-be | Lifelong Learner | TypeScript & ReactJS Lover | MEMEs Consumer.
+
 ![Hacktoberfest 2023 - My Profile](https://github.com/fResult/fResult/assets/19329932/48cb778d-1d6a-40f8-ab11-2b52d683d229)
 
 ## Blog Posts & Articles
