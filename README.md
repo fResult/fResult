@@ -31,6 +31,7 @@ Hi there <img src="https://raw.githubusercontent.com/fResult/fResult/main/assets
 My Name is Korn,  
 I'm a Functional Programming Enthusiast | Entropy Advocate | Technical Coach wanna-be | Lifelong Learner | TypeScript & ReactJS Lover | MEMEs Consumer.
 
+<a href="https://app.daily.dev/fresultsila"><img src="https://api.daily.dev/devcards/v2/caael3K90O8r3NdZPCuWc.png?type=default&r=jjl" width="356" alt="fResult Sila's Dev Card"/></a>
 ![Hacktoberfest 2023 - My Profile](https://github.com/fResult/fResult/assets/19329932/48cb778d-1d6a-40f8-ab11-2b52d683d229)
 
 ## Blog Posts & Articles
