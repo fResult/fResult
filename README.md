@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 Hi there <img src="https://raw.githubusercontent.com/fResult/fResult/main/assets/wave.gif" height="32" width="32" alt="waved" />  
 My Name is Korn,  
-I'm a Functional Programming Enthusiast | Entropy Advocate | Technical Coach wanna-be | Lifelong Learner | TypeScript & ReactJS Lover | MEMEs Consumer.
+I'm a Functional Programming Enthusiast | Various Programming Paradigms and Languages Coder | Entropy Advocate | Technical Coach wanna-be | MEMEs Consumer.
 
 <a href="https://app.daily.dev/fresultsila"><img src="https://api.daily.dev/devcards/v2/caael3K90O8r3NdZPCuWc.png?type=default&r=jjl" width="356" alt="fResult Sila's Dev Card"/></a>
 ![Hacktoberfest 2023 - My Profile](https://github.com/fResult/fResult/assets/19329932/48cb778d-1d6a-40f8-ab11-2b52d683d229)
@@ -99,7 +99,7 @@ https://fResult.medium.com
 ### Open Source Contributions
 - Radash BY [Ray Epps](https://github.com/rayepps) - Functional utility library - modern, simple, typed, powerful
   - Issue - [#339 - `chain` function can't infer data type](https://github.com/rayepps/radash/issues/339)
-  - Pull Request - [#370 fix: Improve type inference for chain function](https://github.com/rayepps/radash/pull/370)
+  - Pull Request - [#370 fix: Improve type inference for chain function](https://github.com/rayepps/radash/pull/370) (be a part of major changes from v.`11.x.x` to `12.x.x`)
 - Parliament Watch BY [WevisDemo](https://github.com/wevisdemo) - Citizens are watching
   - Issue - [#5 VoteCard Component](https://github.com/wevisdemo/parliament-watch/issues/5)
   - Pull Requests
