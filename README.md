@@ -55,6 +55,8 @@ https://fResult.medium.com
     - https://gitlab.com/fResult/task-mgmt
 - Repository which I have experimented for **Functional Proframming** paradigm in _TypeScript_, _JavaScript_ (sometimes _Haskell_) both from scratch and using libraries:
     - https://gitlab.com/fResult/fp-libs-sandbox
+- RxJS Fruits - My Solution
+    - https://gitlab.com/fResult/just-rxjs-fruits-solution
 - Practising on the FrontendMentor platform:
     - [Four card feature section](https://www.frontendmentor.io/solutions/it-work-with-flexbox-and-order-some-item-to-switch-order-when-responsi-ek4UNGRSe)
     - [REST Countrie API with color theme switcher](https://www.frontendmentor.io/solutions/react-typescript-with-hook-tailwindcss-reacthook-form-RaxuArVcK) (without Accessibility (A11Y) Report)
