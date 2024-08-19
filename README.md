@@ -186,4 +186,4 @@ See: <a target="_blank" rel="noreferrer" href="https://triplebyte.com/tb/fresult
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=fResult&show_icons=true&theme=great-gatsby" alt="My stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fResult&theme=great-gatsby" alt="My top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fResult&langs_count=8&theme=great-gatsby" alt="My top languages" />
