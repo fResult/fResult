@@ -12,9 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="http://www.reactivemanifesto.org/"> <img style="border: 0; position: fixed; right: 0; top:0; z-index: 9000" src="//d379ifj7s9wntv.cloudfront.net/reactivemanifesto/images/ribbons/we-are-reactive-black-right.png"> </a>
+<p align=right>
+  <a href="http://www.reactivemanifesto.org/">
+    <img style="border: 0; position: fixed; right: 0; top:0; z-index: 9000" src="//d379ifj7s9wntv.cloudfront.net/reactivemanifesto/images/ribbons/we-are-reactive-black-right.png">
+  </a>
+</p>
 .
-[![An image of @fresult's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fresult)](https://holopin.io/@fresult)
+<p align="center">
+  <a href="https://www.holopin.io/@fresult">
+    <img src="https://holopin.me/fresult" alt="An image of @fresult's Holopin badges, which is a link to view their full Holopin profile" />
+  </a>
+</p>
 
 - [About me](#about-me)
 - [Blog posts & Articles](#blog-posts--articles)
