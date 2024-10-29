@@ -112,7 +112,7 @@ https://fResult.medium.com
 ### Side Projects
 -- Nothing to show --
 ### Open Source Contributions
-- doc.scala-lang.org BY [scala]() -
+- doc.scala-lang.org BY [Scala]() -
   - Pull Requests
     - [#3027 Add content for `/th/tour/named-arguments` page](https://github.com/scala/docs.scala-lang/pull/3027/files)
       - **Result:** https://docs.scala-lang.org/th/tour/named-arguments.html
