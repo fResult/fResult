@@ -112,6 +112,11 @@ https://fResult.medium.com
 ### Side Projects
 -- Nothing to show --
 ### Open Source Contributions
+- doc.scala-lang.org BY [scala]() -
+  - Pull Requests
+    - [#3027 Add content for `/th/tour/named-arguments` page](https://github.com/scala/docs.scala-lang/pull/3027/files)
+      - **Result:** https://docs.scala-lang.org/th/tour/named-arguments.html
+    - [#3025 Update content for `/th/tour/traits` page](https://github.com/scala/docs.scala-lang/pull/3025)
 - Radash BY [Ray Epps](https://github.com/rayepps) - Functional utility library - modern, simple, typed, powerful
   - Issue - [#339 - `chain` function can't infer data type](https://github.com/rayepps/radash/issues/339)
   - Pull Request - [#370 fix: Improve type inference for chain function](https://github.com/rayepps/radash/pull/370) (be a part of major changes from v.`11.x.x` to `12.x.x`)
