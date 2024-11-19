@@ -201,9 +201,14 @@ See: <a target="_blank" rel="noreferrer" href="https://triplebyte.com/tb/fresult
 ---
 
 ## Stats
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Korn704&label=Profile%20Views&color=1&icon=5&pretty=false" alt="My visiting's count" />
-</a>
-
-<img src="https://github-readme-stats.vercel.app/api?username=fResult&show_icons=true&theme=great-gatsby" alt="My stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fResult&langs_count=8&theme=great-gatsby" alt="My top languages" />
+<div align=right>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Korn704&label=Profile%20Views&color=1&icon=5&pretty=false" alt="My visiting's count" />
+  </a>
+</div>
+<br/><br/><br/>
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=fResult&show_icons=true&theme=great-gatsby" alt="My stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fResult&langs_count=8&theme=great-gatsby" alt="My top languages" />
+</div>
