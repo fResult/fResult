@@ -37,8 +37,6 @@ Here are some ideas to get you started:
 </p>
 
 Hi there <img src="https://raw.githubusercontent.com/fResult/fResult/main/assets/wave.gif" height="32" width="32" alt="waved" />  
-My Name is Korn,  
-I'm a Functional Programming Enthusiast | Various Programming Paradigms and Languages Coder | Entropy Advocate | Technical Coach wanna-be | MEMEs Consumer.
 
 <p align=center>
   <a href="https://app.daily.dev/fresultsila">
