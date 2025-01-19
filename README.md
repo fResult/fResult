@@ -62,6 +62,12 @@ https://fResult.medium.com
 ## Experimentals, Practisings, and Learnings
 - My Gitlab Repositories:
     - https://gitlab.com/fResult
+- Gout Together API - *learned Spring Boot with Java, Unit Testing with JUnit and Mockito from [TP Coder](https://www.youtube.com/playlist?list=PLm3A9eDaMzukMQtdDoeOR-HbFN35vieQY)*
+    - https://github.com/fResult/Gout-Together
+    - <details>
+      <summary>Things I Learned</summary>
+      See: https://github.com/fResult/gout-together?tab=readme-ov-file#things-i-learned-from-attending-the-course
+      </details>
 - Task Management API - *created by **Spring Boot Webflux** + **Functional Endpoint** + **Kotlin***
     - https://gitlab.com/fResult/task-mgmt
 - Repository which I have experimented for **Functional Proframming** paradigm in _TypeScript_, _JavaScript_ (sometimes _Haskell_) both from scratch and using libraries:
