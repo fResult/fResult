@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 Hi there <img src="https://raw.githubusercontent.com/fResult/fResult/main/assets/wave.gif" height="32" width="32" alt="waved" />  
 
 <p align=center>
-  <a href="https://app.daily.dev/fresultsila">
+  <a href="https://app.daily.dev/fresult">
     <img src="https://api.daily.dev/devcards/v2/caael3K90O8r3NdZPCuWc.png?type=wide&r=uvz" width="680" alt="fResult Sila's Dev Card"/>
   </a>
 </p>
