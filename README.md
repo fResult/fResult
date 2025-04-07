@@ -214,5 +214,5 @@ See: <a target="_blank" rel="noreferrer" href="https://triplebyte.com/tb/fresult
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=fResult&show_icons=true&theme=great-gatsby" alt="My stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fResult&langs_count=8&theme=great-gatsby" alt="My top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fResult&langs_count=8&card_width=468&hide=html,mustache,ruby,javascript,dockerfile,batchfile,python,vue,css,scss,mushtache&theme=great-gatsby&exclude_repo=pymonad,spring-data-relational" alt="My top languages" />
 </div>
