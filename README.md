@@ -116,14 +116,17 @@ https://fResult.medium.com
 ### Side Projects
 -- Nothing to show --
 ### Open Source Contributions
-- docs.scala-lang.org BY [Scala]() - The Scala Documentation website
+- Radash BY [Alec Larson](https://github.com/aleclarson)
+  - Issue - [#382 - Improve `cluster` type inference](https://github.com/radashi-org/radashi/issues/382)
+  - Pull Request - [#389 - feat: improve type inferrence for cluster function](https://github.com/radashi-org/radashi/pull/389)
+- docs.scala-lang.org BY [The Scala Programming Language](https://github.com/scala) - The Scala Documentation website
   - Pull Requests
     - [#3027 Add content for `/th/tour/named-arguments` page](https://github.com/scala/docs.scala-lang/pull/3027/files)
       - **Result:** https://docs.scala-lang.org/th/tour/named-arguments.html
     - [#3025 Update content for `/th/tour/traits` page](https://github.com/scala/docs.scala-lang/pull/3025)
 - Radash BY [Ray Epps](https://github.com/rayepps) - Functional utility library - modern, simple, typed, powerful
   - Issue - [#339 - `chain` function can't infer data type](https://github.com/rayepps/radash/issues/339)
-  - Pull Request - [#370 fix: Improve type inference for chain function](https://github.com/rayepps/radash/pull/370) (be a part of major changes from v.`11.x.x` to `12.x.x`)
+  - Pull Request - [#370 - fix: Improve type inference for chain function](https://github.com/rayepps/radash/pull/370) (be a part of major changes from v.`11.x.x` to `12.x.x`)
 - Parliament Watch BY [WevisDemo](https://github.com/wevisdemo) - Citizens are watching
   - Issue - [#5 VoteCard Component](https://github.com/wevisdemo/parliament-watch/issues/5)
   - Pull Requests
