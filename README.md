@@ -118,7 +118,7 @@ https://fResult.medium.com
 ### Open Source Contributions
 - Radash BY [Alec Larson](https://github.com/aleclarson)
   - Issue - [#382 - Improve `cluster` type inference](https://github.com/radashi-org/radashi/issues/382)
-  - Pull Request - [#389 - feat: improve type inferrence for cluster function](https://github.com/radashi-org/radashi/pull/389)
+  - Pull Request - [#389 - feat: improve type inferrence for `cluster` function](https://github.com/radashi-org/radashi/pull/389)
 - docs.scala-lang.org BY [The Scala Programming Language](https://github.com/scala) - The Scala Documentation website
   - Pull Requests
     - [#3027 Add content for `/th/tour/named-arguments` page](https://github.com/scala/docs.scala-lang/pull/3027/files)
