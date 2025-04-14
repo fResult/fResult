@@ -43,6 +43,7 @@ Hi there <img src="https://raw.githubusercontent.com/fResult/fResult/main/assets
     <img src="https://api.daily.dev/devcards/v2/caael3K90O8r3NdZPCuWc.png?type=wide&r=uvz" width="680" alt="fResult Sila's Dev Card"/>
   </a>
 </p>
+
 ![Hacktoberfest 2023 - My Profile](https://github.com/fResult/fResult/assets/19329932/48cb778d-1d6a-40f8-ab11-2b52d683d229)
 
 ## Blog Posts & Articles
@@ -66,7 +67,7 @@ https://fResult.medium.com
     - https://github.com/fResult/Gout-Together
     - <details>
       <summary>Things I Learned</summary>
-      See: https://github.com/fResult/gout-together?tab=readme-ov-file#things-i-learned-from-attending-the-course
+      See: https://github.com/fResult/gout-together#things-i-learned-from-attending-the-course
       </details>
 - Task Management API - *created by **Spring Boot Webflux** + **Functional Endpoint** + **Kotlin***
     - https://gitlab.com/fResult/task-mgmt
