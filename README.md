@@ -44,7 +44,7 @@ Hi there <img src="https://raw.githubusercontent.com/fResult/fResult/main/assets
   </a>
 </p>
 
-![Hacktoberfest 2023 - My Profile](https://github.com/fResult/fResult/assets/19329932/48cb778d-1d6a-40f8-ab11-2b52d683d229)
+<img src="https://github.com/fResult/fResult/assets/19329932/48cb778d-1d6a-40f8-ab11-2b52d683d229" alt="Hacktoberfest 2023 - My Profile">
 
 ## Blog Posts & Articles
 https://fResult.medium.com
