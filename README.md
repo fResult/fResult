@@ -32,11 +32,10 @@ Here are some ideas to get you started:
 - [Stats](#stats)
 
 # About Me
+<p align=center><b>Hi there</b> <img src="https://raw.githubusercontent.com/fResult/fResult/main/assets/wave.gif" height="32" width="32" alt="waved"></p>
 <p align=center>
   <img src="https://raw.githubusercontent.com/fResult/fResult/main/assets/rick-roll.gif" alt="Rickrolled"/>
 </p>
-
-Hi there <img src="https://raw.githubusercontent.com/fResult/fResult/main/assets/wave.gif" height="32" width="32" alt="waved" >  
 
 <p align=center>
   <a href="https://app.daily.dev/fresult">
