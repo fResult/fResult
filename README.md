@@ -148,7 +148,7 @@ https://fResult.medium.com
     </ul>
   </li>
   <li>
-    Contributors' Hall of Fame of Bangkok Open Source Festival '23 BY [Creatorgarten](https://github.com/creatorsgarten)
+    Contributors' Hall of Fame of Bangkok Open Source Festival '23 BY <a href=https://github.com/creatorsgarten>Creatorgarten</a>
     <ul>
       <li>
         <a href="https://github.com/creatorsgarten/bosf23/blob/main/contributors/fResult.md" target="_blank">contributors/fResult.md</a>
