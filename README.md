@@ -55,7 +55,7 @@ https://fResult.medium.com
     https://medium.com/p/1439befa84c1
 - **_Point-free_** and **_Unary Function_** in TypeScript.  
     https://medium.com/p/33c9825a7262
-- My TypeScript Series which I created for students in Code Camp 8th and my friends could learn it by themselves.
+- My TypeScript Series, which I created for students in Code Camp 8th and my friends could learn it by themselves.
     https://gitlab.com/fResult/typescript-slide
 
 
